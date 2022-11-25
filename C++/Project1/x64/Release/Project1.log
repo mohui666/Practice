@@ -1,0 +1,4 @@
+﻿  Const.cpp
+  Hi ASOUL.cpp
+Hi ASOUL.obj : error LNK2005: main 已经在 Const.obj 中定义
+C:\Users\admin\Desktop\vs\Project1\x64\Release\Project1.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
