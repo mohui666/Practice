@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mohui666\\VS\\C#\\MySolution\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "D:\\mohui666\\Git\\Practice\\C#\\MySolution\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "D:\\mohui666\\VS\\C#\\MySolution\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "D:\\mohui666\\Git\\Practice\\C#\\MySolution\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\mohui666\\VS\\C#\\MySolution\\HelloWorld\\obj\\",
+      "outputPath": "D:\\mohui666\\Git\\Practice\\C#\\MySolution\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

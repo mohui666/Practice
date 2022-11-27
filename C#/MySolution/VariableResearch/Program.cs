@@ -6,6 +6,11 @@ namespace VariableResearch
     {
         static void Main(string[] args)
         {
+            //String str = Console.ReadLine();
+            //int strInt = Convert.ToInt32(str);
+            //int a = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine(strInt + a);
+
             //Console.Write("输入a的值:");
             //int a = Convert.ToInt32(Console.ReadLine());
             //Console.Write("输入b的值:");
@@ -18,8 +23,10 @@ namespace VariableResearch
             //Console.WriteLine("a的值为:" + a);
             //Console.WriteLine("b的值为:" + b);
 
-            int a = 13, b = 26;
+            int a = Convert.ToInt32(Console.ReadLine());
+            int b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("{0}+{1}={2}",a,b,a+b); //0,1,2
+            
         }
     }
 }

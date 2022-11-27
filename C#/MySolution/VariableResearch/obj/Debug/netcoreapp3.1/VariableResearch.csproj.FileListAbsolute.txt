@@ -12,3 +12,17 @@ D:\mohui666\VS\C#\MySolution\VariableResearch\obj\Debug\netcoreapp3.1\VariableRe
 D:\mohui666\VS\C#\MySolution\VariableResearch\obj\Debug\netcoreapp3.1\VariableResearch.dll
 D:\mohui666\VS\C#\MySolution\VariableResearch\obj\Debug\netcoreapp3.1\VariableResearch.pdb
 D:\mohui666\VS\C#\MySolution\VariableResearch\obj\Debug\netcoreapp3.1\VariableResearch.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\bin\Debug\netcoreapp3.1\VariableResearch.exe
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\bin\Debug\netcoreapp3.1\VariableResearch.deps.json
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\bin\Debug\netcoreapp3.1\VariableResearch.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\bin\Debug\netcoreapp3.1\VariableResearch.runtimeconfig.dev.json
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\bin\Debug\netcoreapp3.1\VariableResearch.dll
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\bin\Debug\netcoreapp3.1\VariableResearch.pdb
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\obj\Debug\netcoreapp3.1\VariableResearch.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\obj\Debug\netcoreapp3.1\VariableResearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\obj\Debug\netcoreapp3.1\VariableResearch.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\obj\Debug\netcoreapp3.1\VariableResearch.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\obj\Debug\netcoreapp3.1\VariableResearch.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\obj\Debug\netcoreapp3.1\VariableResearch.dll
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\obj\Debug\netcoreapp3.1\VariableResearch.pdb
+D:\mohui666\Git\Practice\C#\MySolution\VariableResearch\obj\Debug\netcoreapp3.1\VariableResearch.genruntimeconfig.cache

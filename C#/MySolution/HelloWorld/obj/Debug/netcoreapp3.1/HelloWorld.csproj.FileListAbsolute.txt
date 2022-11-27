@@ -12,3 +12,17 @@ D:\mohui666\VS\C#\MySolution\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.cspro
 D:\mohui666\VS\C#\MySolution\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
 D:\mohui666\VS\C#\MySolution\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
 D:\mohui666\VS\C#\MySolution\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\mohui666\Git\Practice\C#\MySolution\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

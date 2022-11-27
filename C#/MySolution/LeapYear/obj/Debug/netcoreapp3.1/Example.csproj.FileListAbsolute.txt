@@ -1,0 +1,14 @@
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\bin\Debug\netcoreapp3.1\Example.exe
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\bin\Debug\netcoreapp3.1\Example.deps.json
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\bin\Debug\netcoreapp3.1\Example.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\bin\Debug\netcoreapp3.1\Example.runtimeconfig.dev.json
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\bin\Debug\netcoreapp3.1\Example.dll
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\bin\Debug\netcoreapp3.1\Example.pdb
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\obj\Debug\netcoreapp3.1\Example.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\obj\Debug\netcoreapp3.1\Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\obj\Debug\netcoreapp3.1\Example.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\obj\Debug\netcoreapp3.1\Example.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\obj\Debug\netcoreapp3.1\Example.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\obj\Debug\netcoreapp3.1\Example.dll
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\obj\Debug\netcoreapp3.1\Example.pdb
+D:\mohui666\Git\Practice\C#\MySolution\LeapYear\obj\Debug\netcoreapp3.1\Example.genruntimeconfig.cache

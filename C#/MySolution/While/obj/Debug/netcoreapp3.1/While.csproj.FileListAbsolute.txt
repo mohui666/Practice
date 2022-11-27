@@ -1,0 +1,14 @@
+D:\mohui666\Git\Practice\C#\MySolution\While\bin\Debug\netcoreapp3.1\While.exe
+D:\mohui666\Git\Practice\C#\MySolution\While\bin\Debug\netcoreapp3.1\While.deps.json
+D:\mohui666\Git\Practice\C#\MySolution\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\MySolution\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+D:\mohui666\Git\Practice\C#\MySolution\While\bin\Debug\netcoreapp3.1\While.dll
+D:\mohui666\Git\Practice\C#\MySolution\While\bin\Debug\netcoreapp3.1\While.pdb
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\netcoreapp3.1\While.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\netcoreapp3.1\While.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\netcoreapp3.1\While.dll
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\netcoreapp3.1\While.pdb
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\netcoreapp3.1\While.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\netcoreapp3.1\While.csproj.AssemblyReference.cache
