@@ -1,0 +1,15 @@
+D:\mohui666\Git\Practice\C#\Array\bin\Debug\net7.0\Array.exe
+D:\mohui666\Git\Practice\C#\Array\bin\Debug\net7.0\Array.deps.json
+D:\mohui666\Git\Practice\C#\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\Array\bin\Debug\net7.0\Array.dll
+D:\mohui666\Git\Practice\C#\Array\bin\Debug\net7.0\Array.pdb
+D:\mohui666\Git\Practice\C#\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\Array\obj\Debug\net7.0\Array.dll
+D:\mohui666\Git\Practice\C#\Array\obj\Debug\net7.0\refint\Array.dll
+D:\mohui666\Git\Practice\C#\Array\obj\Debug\net7.0\Array.pdb
+D:\mohui666\Git\Practice\C#\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\Array\obj\Debug\net7.0\ref\Array.dll
