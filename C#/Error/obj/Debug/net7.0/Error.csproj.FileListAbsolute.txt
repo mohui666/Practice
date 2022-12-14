@@ -1,0 +1,15 @@
+D:\mohui666\Git\Practice\C#\Error\bin\Debug\net7.0\Error.exe
+D:\mohui666\Git\Practice\C#\Error\bin\Debug\net7.0\Error.deps.json
+D:\mohui666\Git\Practice\C#\Error\bin\Debug\net7.0\Error.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\Error\bin\Debug\net7.0\Error.dll
+D:\mohui666\Git\Practice\C#\Error\bin\Debug\net7.0\Error.pdb
+D:\mohui666\Git\Practice\C#\Error\obj\Debug\net7.0\Error.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\Error\obj\Debug\net7.0\Error.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\Error\obj\Debug\net7.0\Error.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\Error\obj\Debug\net7.0\Error.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\Error\obj\Debug\net7.0\Error.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\Error\obj\Debug\net7.0\Error.dll
+D:\mohui666\Git\Practice\C#\Error\obj\Debug\net7.0\refint\Error.dll
+D:\mohui666\Git\Practice\C#\Error\obj\Debug\net7.0\Error.pdb
+D:\mohui666\Git\Practice\C#\Error\obj\Debug\net7.0\Error.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\Error\obj\Debug\net7.0\ref\Error.dll

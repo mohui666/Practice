@@ -1,0 +1,15 @@
+D:\mohui666\Git\Practice\C#\MySolution\While\bin\Debug\net7.0\While.exe
+D:\mohui666\Git\Practice\C#\MySolution\While\bin\Debug\net7.0\While.deps.json
+D:\mohui666\Git\Practice\C#\MySolution\While\bin\Debug\net7.0\While.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\MySolution\While\bin\Debug\net7.0\While.dll
+D:\mohui666\Git\Practice\C#\MySolution\While\bin\Debug\net7.0\While.pdb
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\net7.0\While.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\net7.0\While.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\net7.0\While.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\net7.0\While.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\net7.0\While.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\net7.0\While.dll
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\net7.0\refint\While.dll
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\net7.0\While.pdb
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\net7.0\While.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\MySolution\While\obj\Debug\net7.0\ref\While.dll

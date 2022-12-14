@@ -1,0 +1,15 @@
+D:\mohui666\Git\Practice\C#\Function\bin\Debug\net7.0\Function.exe
+D:\mohui666\Git\Practice\C#\Function\bin\Debug\net7.0\Function.deps.json
+D:\mohui666\Git\Practice\C#\Function\bin\Debug\net7.0\Function.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\Function\bin\Debug\net7.0\Function.dll
+D:\mohui666\Git\Practice\C#\Function\bin\Debug\net7.0\Function.pdb
+D:\mohui666\Git\Practice\C#\Function\obj\Debug\net7.0\Function.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\Function\obj\Debug\net7.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\Function\obj\Debug\net7.0\Function.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\Function\obj\Debug\net7.0\Function.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\Function\obj\Debug\net7.0\Function.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\Function\obj\Debug\net7.0\Function.dll
+D:\mohui666\Git\Practice\C#\Function\obj\Debug\net7.0\refint\Function.dll
+D:\mohui666\Git\Practice\C#\Function\obj\Debug\net7.0\Function.pdb
+D:\mohui666\Git\Practice\C#\Function\obj\Debug\net7.0\Function.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\Function\obj\Debug\net7.0\ref\Function.dll
