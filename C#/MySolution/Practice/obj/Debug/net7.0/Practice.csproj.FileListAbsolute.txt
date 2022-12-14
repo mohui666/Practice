@@ -1,0 +1,15 @@
+D:\mohui666\Git\Practice\C#\MySolution\Practice\bin\Debug\net7.0\Practice.exe
+D:\mohui666\Git\Practice\C#\MySolution\Practice\bin\Debug\net7.0\Practice.deps.json
+D:\mohui666\Git\Practice\C#\MySolution\Practice\bin\Debug\net7.0\Practice.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\MySolution\Practice\bin\Debug\net7.0\Practice.dll
+D:\mohui666\Git\Practice\C#\MySolution\Practice\bin\Debug\net7.0\Practice.pdb
+D:\mohui666\Git\Practice\C#\MySolution\Practice\obj\Debug\net7.0\Practice.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\MySolution\Practice\obj\Debug\net7.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\MySolution\Practice\obj\Debug\net7.0\Practice.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\Practice\obj\Debug\net7.0\Practice.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\MySolution\Practice\obj\Debug\net7.0\Practice.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\Practice\obj\Debug\net7.0\Practice.dll
+D:\mohui666\Git\Practice\C#\MySolution\Practice\obj\Debug\net7.0\refint\Practice.dll
+D:\mohui666\Git\Practice\C#\MySolution\Practice\obj\Debug\net7.0\Practice.pdb
+D:\mohui666\Git\Practice\C#\MySolution\Practice\obj\Debug\net7.0\Practice.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\MySolution\Practice\obj\Debug\net7.0\ref\Practice.dll
