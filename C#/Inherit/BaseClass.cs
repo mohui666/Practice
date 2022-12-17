@@ -4,8 +4,8 @@ namespace Inherit
 {
     class BaseClass
     {
-            private int data1;
-            private string data2;
+            public int data1;
+            public string data2;
 
             public void Function1()
             {
