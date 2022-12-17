@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "orxrJ3T0IBIKomz3gdoAr9I8tW24CWnfu0+tw/REzYudmBUhzbfAPKdXkCx1w1dtuHL2msx7d1K18J1wLFUIcg==",
+=======
+  "dgSpecHash": "b+kDAsqjGuY32lspU5pM2ObdrItMnREAkCW3sVKpj4kfNJP3zMxH/+ar8FOL9ccS8hRVAhUNHOQ6aZUAEljq4A==",
+>>>>>>> a58cbf12989b72d385189753c6ffef02eb34f313
   "success": true,
   "projectFilePath": "D:\\mohui666\\Git\\Practice\\C#\\MySolution\\While\\While.csproj",
   "expectedPackageFiles": [],

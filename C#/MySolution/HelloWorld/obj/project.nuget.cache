@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "CcDNqHnPbZBn4bPggcKUJcrHxuWrOcZb7Gl78FrIU/2XSENPTGBPMCxBt3DdiHjLaBsbZkER/XTrtox0q/M5fA==",
+=======
+  "dgSpecHash": "s/8FPCDkax99HXXQqOda4OIZCSvCSKnRxHtl+alI8WDbsHT4sWkVnZNHxdTChGdI+5rtGkc34mpKtMyM4tO8fQ==",
+>>>>>>> a58cbf12989b72d385189753c6ffef02eb34f313
   "success": true,
   "projectFilePath": "D:\\mohui666\\Git\\Practice\\C#\\MySolution\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],

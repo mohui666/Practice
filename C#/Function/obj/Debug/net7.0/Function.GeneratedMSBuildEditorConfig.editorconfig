@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Function
+<<<<<<< HEAD
 build_property.ProjectDir = D:\mohui666\Git\Practice\C#\Function\
+=======
+build_property.ProjectDir = d:\mohui666\Git\Practice\C#\Function\
+>>>>>>> a58cbf12989b72d385189753c6ffef02eb34f313
