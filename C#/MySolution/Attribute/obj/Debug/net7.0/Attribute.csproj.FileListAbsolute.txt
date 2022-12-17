@@ -1,0 +1,15 @@
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\bin\Debug\net7.0\Attribute.exe
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\bin\Debug\net7.0\Attribute.deps.json
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\bin\Debug\net7.0\Attribute.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\bin\Debug\net7.0\Attribute.dll
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\bin\Debug\net7.0\Attribute.pdb
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\obj\Debug\net7.0\Attribute.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\obj\Debug\net7.0\Attribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\obj\Debug\net7.0\Attribute.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\obj\Debug\net7.0\Attribute.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\obj\Debug\net7.0\Attribute.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\obj\Debug\net7.0\Attribute.dll
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\obj\Debug\net7.0\refint\Attribute.dll
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\obj\Debug\net7.0\Attribute.pdb
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\obj\Debug\net7.0\Attribute.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\MySolution\Attribute\obj\Debug\net7.0\ref\Attribute.dll
