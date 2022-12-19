@@ -6,6 +6,7 @@ namespace Inherit
     {
             public int data1;
             public string data2;
+            protected int test;
 
             public void Function1()
             {
@@ -17,7 +18,7 @@ namespace Inherit
             }
             public void Function3()
             {
-                Console.WriteLine("功能3");
+                Console.WriteLine(data1);
             }
     }
 }

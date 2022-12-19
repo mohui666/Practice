@@ -11,10 +11,13 @@ namespace Inherit
             bc.data1 = 10;
             bc.data2 = "牛子";
             
-            DerivedClass dc1 = new DerivedClass();
+            DerivedClass dc1 = new DerivedClass(6324);
             dc1.Function1();
-            dc1.Function2();
-            dc1.data1 = 100;
+            dc1.Function3();
+            dc1.Test();
+
+            DerivedClass dc2 = new DerivedClass(6324);
+            dc2.Test();
         }
     }
 }
