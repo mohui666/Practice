@@ -23,7 +23,7 @@ namespace DataType
         }
         static void Student(StudentInfo Mama)
         {
-                Console.WriteLine(Mama.ID);
+            Console.WriteLine(Mama.ID);
         }
 
         delegate void MyDelegate();
@@ -31,9 +31,15 @@ namespace DataType
         {
             Console.WriteLine("mama");
         }
+        static void DaoLi()
+        {
+            Console.WriteLine("牛子");
+        }
         static void Main(string[] args)
         {
-            MyDelegate say = Say;
+            MyDelegate say = DaoLi;
+            say();
+            say = Say;
             say();
             // StudentInfo DaiHouDe;
             // DaiHouDe.ID = 123456789;

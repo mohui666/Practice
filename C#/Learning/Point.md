@@ -3,7 +3,7 @@
 
 
 
-Console.WriteLine/ReadLIne(）；
+Console.WriteLine/ReadLIne()；
 //换行输出/输入
 Console.Write/Read();
 //不换行输出/输入

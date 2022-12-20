@@ -8,9 +8,11 @@ namespace Virtual
         {
             Boss DaoLi = new Boss();
             DaoLi.Move();
+            DaoLi.Attack();
 
             Enemy Hamood;
             Hamood = new Boss();
+            Hamood.Attack();
         }
     }
 }

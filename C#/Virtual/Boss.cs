@@ -8,5 +8,10 @@ namespace Virtual
         {
             Console.WriteLine("Boss");
         }
+
+        public new void Attack()
+        {
+            Console.WriteLine("攻击");
+        }
     }
 }
