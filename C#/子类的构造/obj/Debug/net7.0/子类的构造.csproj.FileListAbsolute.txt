@@ -1,0 +1,15 @@
+D:\mohui666\Git\Practice\C#\子类的构造\bin\Debug\net7.0\子类的构造.exe
+D:\mohui666\Git\Practice\C#\子类的构造\bin\Debug\net7.0\子类的构造.deps.json
+D:\mohui666\Git\Practice\C#\子类的构造\bin\Debug\net7.0\子类的构造.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\子类的构造\bin\Debug\net7.0\子类的构造.dll
+D:\mohui666\Git\Practice\C#\子类的构造\bin\Debug\net7.0\子类的构造.pdb
+D:\mohui666\Git\Practice\C#\子类的构造\obj\Debug\net7.0\子类的构造.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\子类的构造\obj\Debug\net7.0\子类的构造.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\子类的构造\obj\Debug\net7.0\子类的构造.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\子类的构造\obj\Debug\net7.0\子类的构造.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\子类的构造\obj\Debug\net7.0\子类的构造.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\子类的构造\obj\Debug\net7.0\子类的构造.dll
+D:\mohui666\Git\Practice\C#\子类的构造\obj\Debug\net7.0\refint\子类的构造.dll
+D:\mohui666\Git\Practice\C#\子类的构造\obj\Debug\net7.0\子类的构造.pdb
+D:\mohui666\Git\Practice\C#\子类的构造\obj\Debug\net7.0\子类的构造.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\子类的构造\obj\Debug\net7.0\ref\子类的构造.dll

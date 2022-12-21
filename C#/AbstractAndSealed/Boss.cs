@@ -6,7 +6,7 @@ namespace AbstractAndSealed
     {
         public override void Attack()
         {
-            Console.WriteLine("对");
+            Console.WriteLine("重写的Boss攻击");
         }
     }
 }
