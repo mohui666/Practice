@@ -1,0 +1,15 @@
+D:\mohui666\Git\Practice\C#\接口\bin\Debug\net7.0\接口.exe
+D:\mohui666\Git\Practice\C#\接口\bin\Debug\net7.0\接口.deps.json
+D:\mohui666\Git\Practice\C#\接口\bin\Debug\net7.0\接口.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\接口\bin\Debug\net7.0\接口.dll
+D:\mohui666\Git\Practice\C#\接口\bin\Debug\net7.0\接口.pdb
+D:\mohui666\Git\Practice\C#\接口\obj\Debug\net7.0\接口.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\接口\obj\Debug\net7.0\接口.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\接口\obj\Debug\net7.0\接口.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\接口\obj\Debug\net7.0\接口.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\接口\obj\Debug\net7.0\接口.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\接口\obj\Debug\net7.0\接口.dll
+D:\mohui666\Git\Practice\C#\接口\obj\Debug\net7.0\refint\接口.dll
+D:\mohui666\Git\Practice\C#\接口\obj\Debug\net7.0\接口.pdb
+D:\mohui666\Git\Practice\C#\接口\obj\Debug\net7.0\接口.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\接口\obj\Debug\net7.0\ref\接口.dll
