@@ -1,0 +1,15 @@
+D:\mohui666\Git\Practice\C#\Static\obj\Debug\net7.0\Static.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\Static\obj\Debug\net7.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\Static\obj\Debug\net7.0\Static.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\Static\obj\Debug\net7.0\Static.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\Static\obj\Debug\net7.0\Static.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\Static\bin\Debug\net7.0\Static.exe
+D:\mohui666\Git\Practice\C#\Static\bin\Debug\net7.0\Static.deps.json
+D:\mohui666\Git\Practice\C#\Static\bin\Debug\net7.0\Static.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\Static\bin\Debug\net7.0\Static.dll
+D:\mohui666\Git\Practice\C#\Static\bin\Debug\net7.0\Static.pdb
+D:\mohui666\Git\Practice\C#\Static\obj\Debug\net7.0\Static.dll
+D:\mohui666\Git\Practice\C#\Static\obj\Debug\net7.0\refint\Static.dll
+D:\mohui666\Git\Practice\C#\Static\obj\Debug\net7.0\Static.pdb
+D:\mohui666\Git\Practice\C#\Static\obj\Debug\net7.0\Static.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\Static\obj\Debug\net7.0\ref\Static.dll
