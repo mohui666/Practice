@@ -9,11 +9,22 @@ namespace 泛型
             // ClassA<int> classA = new ClassA<int>(1,2);
             // Console.WriteLine(classA.GetSum());
 
-            Program p = new Program();
-            Console.WriteLine(p.ToString());
+            // Program p = new Program();
+            // Console.WriteLine(p.ToString());
 
-            Student s = new Student("张三", 20);
-            Console.WriteLine(s.ToString());
+            // Student s = new Student("张三", 20);
+            // Console.WriteLine(s.ToString());
+
+            Console.WriteLine(GetSum<int>(1000,2));
+            Console.WriteLine(GetSum<float>(1000.1f, 2.3f));
+        }
+
+        public static T GetSum<T>(T a , T b)
+        {
+            dynamic num1 = a;
+            dynamic num2 = b;
+            dynamic sum = num1 + num2;
+            return (T)sum;
         }
     }
 

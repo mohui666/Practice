@@ -1,0 +1,15 @@
+D:\mohui666\Git\Practice\C#\MyList\bin\Debug\net7.0\MyList.exe
+D:\mohui666\Git\Practice\C#\MyList\bin\Debug\net7.0\MyList.deps.json
+D:\mohui666\Git\Practice\C#\MyList\bin\Debug\net7.0\MyList.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\MyList\bin\Debug\net7.0\MyList.dll
+D:\mohui666\Git\Practice\C#\MyList\bin\Debug\net7.0\MyList.pdb
+D:\mohui666\Git\Practice\C#\MyList\obj\Debug\net7.0\MyList.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\MyList\obj\Debug\net7.0\MyList.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\MyList\obj\Debug\net7.0\MyList.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\MyList\obj\Debug\net7.0\MyList.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\MyList\obj\Debug\net7.0\MyList.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\MyList\obj\Debug\net7.0\MyList.dll
+D:\mohui666\Git\Practice\C#\MyList\obj\Debug\net7.0\refint\MyList.dll
+D:\mohui666\Git\Practice\C#\MyList\obj\Debug\net7.0\MyList.pdb
+D:\mohui666\Git\Practice\C#\MyList\obj\Debug\net7.0\MyList.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\MyList\obj\Debug\net7.0\ref\MyList.dll
