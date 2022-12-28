@@ -1,0 +1,15 @@
+D:\mohui666\Git\Practice\C#\泛型\obj\Debug\net7.0\泛型.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\泛型\obj\Debug\net7.0\泛型.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\泛型\obj\Debug\net7.0\泛型.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\泛型\obj\Debug\net7.0\泛型.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\泛型\obj\Debug\net7.0\泛型.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\泛型\bin\Debug\net7.0\泛型.exe
+D:\mohui666\Git\Practice\C#\泛型\bin\Debug\net7.0\泛型.deps.json
+D:\mohui666\Git\Practice\C#\泛型\bin\Debug\net7.0\泛型.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\泛型\bin\Debug\net7.0\泛型.dll
+D:\mohui666\Git\Practice\C#\泛型\bin\Debug\net7.0\泛型.pdb
+D:\mohui666\Git\Practice\C#\泛型\obj\Debug\net7.0\泛型.dll
+D:\mohui666\Git\Practice\C#\泛型\obj\Debug\net7.0\refint\泛型.dll
+D:\mohui666\Git\Practice\C#\泛型\obj\Debug\net7.0\泛型.pdb
+D:\mohui666\Git\Practice\C#\泛型\obj\Debug\net7.0\泛型.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\泛型\obj\Debug\net7.0\ref\泛型.dll

@@ -1,0 +1,15 @@
+D:\mohui666\Git\Practice\C#\列表\bin\Debug\net7.0\列表.exe
+D:\mohui666\Git\Practice\C#\列表\bin\Debug\net7.0\列表.deps.json
+D:\mohui666\Git\Practice\C#\列表\bin\Debug\net7.0\列表.runtimeconfig.json
+D:\mohui666\Git\Practice\C#\列表\bin\Debug\net7.0\列表.dll
+D:\mohui666\Git\Practice\C#\列表\bin\Debug\net7.0\列表.pdb
+D:\mohui666\Git\Practice\C#\列表\obj\Debug\net7.0\列表.csproj.AssemblyReference.cache
+D:\mohui666\Git\Practice\C#\列表\obj\Debug\net7.0\列表.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohui666\Git\Practice\C#\列表\obj\Debug\net7.0\列表.AssemblyInfoInputs.cache
+D:\mohui666\Git\Practice\C#\列表\obj\Debug\net7.0\列表.AssemblyInfo.cs
+D:\mohui666\Git\Practice\C#\列表\obj\Debug\net7.0\列表.csproj.CoreCompileInputs.cache
+D:\mohui666\Git\Practice\C#\列表\obj\Debug\net7.0\列表.dll
+D:\mohui666\Git\Practice\C#\列表\obj\Debug\net7.0\refint\列表.dll
+D:\mohui666\Git\Practice\C#\列表\obj\Debug\net7.0\列表.pdb
+D:\mohui666\Git\Practice\C#\列表\obj\Debug\net7.0\列表.genruntimeconfig.cache
+D:\mohui666\Git\Practice\C#\列表\obj\Debug\net7.0\ref\列表.dll
