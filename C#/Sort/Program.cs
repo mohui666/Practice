@@ -16,36 +16,40 @@ namespace Sort
             }
 
             //冒泡排序
-            bool isChange = false;
-            for(int j = 0;j<intArray.Length-1;j++)
-            {
-                for (int i = 0; i < intArray.Length - j - 1; i++)
-                {
-                    // 如果元素需要交换，则交换它们
-                    if (intArray[i] > intArray[i + 1])
-                    {
-                        int temp = intArray[i];
-                        intArray[i] = intArray[i + 1];
-                        intArray[i + 1] = temp;
-                        isChange = true;
-                        // foreach(int temp1 in intArray)
-                        // {
-                        //     Console.Write(temp1 + " ");
-                        // }
+            // bool isChange = false;
+            // for(int j = 0;j<intArray.Length-1;j++)
+            // {
+            //     for (int i = 0; i < intArray.Length - j - 1; i++)
+            //     {
+            //         // 如果元素需要交换，则交换它们
+            //         if (intArray[i] > intArray[i + 1])
+            //         {
+            //             int temp = intArray[i];
+            //             intArray[i] = intArray[i + 1];
+            //             intArray[i + 1] = temp;
+            //             isChange = true;
+            //             // foreach(int temp1 in intArray)
+            //             // {
+            //             //     Console.Write(temp1 + " ");
+            //             // }
 
-                        //Console.Write('\n');
-                    }
-                    if(!isChange)
-                    {
-                        break;
-                    }
-                }
-            }
+            //             //Console.Write('\n');
+            //         }
+            //         if(!isChange)
+            //         {
+            //             break;
+            //         }
+            //     }
+            // }
+
+            intArray = Array.Sort(intArray);
 
             foreach(int temp in intArray)
             {
                 Console.Write(temp + " ");
             }
+
+            
         }
     }
 }
